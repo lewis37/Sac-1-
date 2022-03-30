@@ -1,0 +1,11 @@
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\bin\Debug\Sac 1 Task 1 Text book price.exe.config
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\bin\Debug\Sac 1 Task 1 Text book price.exe
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\bin\Debug\Sac 1 Task 1 Text book price.pdb
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac 1 Task 1 Text book price.csproj.AssemblyReference.cache
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac 1 Task 1 Text book price.csproj.SuggestedBindingRedirects.cache
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac_1_Task_1_Text_book_price.Form1.resources
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac_1_Task_1_Text_book_price.Properties.Resources.resources
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac 1 Task 1 Text book price.csproj.GenerateResource.cache
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac 1 Task 1 Text book price.csproj.CoreCompileInputs.cache
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac 1 Task 1 Text book price.exe
+C:\Users\multi\source\repos\Sac 1 Task 1 Text book price\Sac 1 Task 1 Text book price\obj\Debug\Sac 1 Task 1 Text book price.pdb

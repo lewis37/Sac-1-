@@ -1,0 +1,11 @@
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\bin\Debug\Sac 1 Task 3 filtering and sorthing the sale data.exe.config
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\bin\Debug\Sac 1 Task 3 filtering and sorthing the sale data.exe
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\bin\Debug\Sac 1 Task 3 filtering and sorthing the sale data.pdb
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac 1 Task 3 filtering and sorthing the sale data.csproj.AssemblyReference.cache
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac 1 Task 3 filtering and sorthing the sale data.csproj.SuggestedBindingRedirects.cache
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac_1_Task_3_filtering_and_sorthing_the_sale_data.Form1.resources
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac_1_Task_3_filtering_and_sorthing_the_sale_data.Properties.Resources.resources
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac 1 Task 3 filtering and sorthing the sale data.csproj.GenerateResource.cache
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac 1 Task 3 filtering and sorthing the sale data.csproj.CoreCompileInputs.cache
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac 1 Task 3 filtering and sorthing the sale data.exe
+C:\Users\multi\source\repos\Sac 1 Task 3 filtering and sorthing the sale data\Sac 1 Task 3 filtering and sorthing the sale data\obj\Debug\Sac 1 Task 3 filtering and sorthing the sale data.pdb

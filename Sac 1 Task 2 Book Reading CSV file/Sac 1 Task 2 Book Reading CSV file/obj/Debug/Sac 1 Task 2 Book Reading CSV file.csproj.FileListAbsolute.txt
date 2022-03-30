@@ -1,0 +1,11 @@
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\bin\Debug\Sac 1 Task 2 Book Reading CSV file.exe.config
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\bin\Debug\Sac 1 Task 2 Book Reading CSV file.exe
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\bin\Debug\Sac 1 Task 2 Book Reading CSV file.pdb
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac 1 Task 2 Book Reading CSV file.csproj.AssemblyReference.cache
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac 1 Task 2 Book Reading CSV file.csproj.SuggestedBindingRedirects.cache
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac_1_Task_2_Book_Reading_CSV_file.Form1.resources
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac_1_Task_2_Book_Reading_CSV_file.Properties.Resources.resources
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac 1 Task 2 Book Reading CSV file.csproj.GenerateResource.cache
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac 1 Task 2 Book Reading CSV file.csproj.CoreCompileInputs.cache
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac 1 Task 2 Book Reading CSV file.exe
+C:\Users\multi\source\repos\Sac 1 Task 2 Book Reading CSV file\Sac 1 Task 2 Book Reading CSV file\obj\Debug\Sac 1 Task 2 Book Reading CSV file.pdb
